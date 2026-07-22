@@ -1,8 +1,8 @@
 # Randy O. Powell
 
-**IT leadership | Data science graduate  | Youth program operations**
+**IT leadership | M.S Data Science | Youth program operations**
 
-I build and run the systems that keep organizations moving. My background is IT leadership, and I am a graduate  in data science at the University of Phoenix. I am currently focused on turning operational data into decisions people can actually act on.
+I build and run the systems that keep organizations moving. My background is IT leadership, Master's  in Data Science from the University of Phoenix ,and  I am currently focused on turning operational data into decisions people can actually act on.
 
 Right now I coordinate programs for Oasis International, a youth athletic and academic development organization serving South Phoenix, Tempe, and Ahwatukee. That role sits at the intersection of operations, reporting, and people. Scheduling, program tracking, staff coordination, and the documentation that keeps a growing organization accountable.
 
@@ -14,7 +14,7 @@ Coaching taught me something that carries directly into analytics. You do not wi
 
 - **Program operations and reporting.** Coordinating athletic and academic programming across multiple Arizona communities, including the planning documents and business case work behind it.
 - **IT leadership.** Systems administration, infrastructure decisions, and the process side of keeping technology aligned with what an organization actually needs.
-- **Graduate data science coursework.** Applied statistics, data analysis, and the modeling foundation I am building toward a full analytics role.
+- **Graduate data science coursework.** Applied statistics, data analysis, and the modeling foundation , full data analytics 
 
 ### Currently
 
@@ -24,9 +24,8 @@ Coaching taught me something that carries directly into analytics. You do not wi
 
 ### Tools
 
-[FILL IN OR DELETE. List only what you can defend in an interview. Suggested format:]
 
-`Python` `SQL` `Excel` `Tableau` `[your actual tools]`
+`Python` `SQL` `Excel` `Tableau` 'Power BI `C' 'R' 'java' 'javascript' 'Data pipeline & ETL Architecture 'Data Science & Machine learning      ' Predictive Modeling & Statistical Analysis '
 
 ### Background
 
@@ -34,8 +33,8 @@ I played college football at the University of Memphis and Lane College, and I c
 
 ### Reach me
 
-- LinkedIn: [YOUR LINKEDIN URL]
-- Email: [YOUR PROFESSIONAL EMAIL]
+- LinkedIn: [https://www.linkedin.com/in/randy-powell-224a92bb?utm_source=share_via&utm_content=profile&utm_medium=member_ios  ]
+- Email: [rpowell.investorsacademy@gmail.com]
 
 ---
 
