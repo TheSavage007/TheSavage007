@@ -1,6 +1,6 @@
 # Randy O. Powell
 
-**IT leadership | Data science graduate student | Youth program operations**
+**IT leadership | Data science graduate  | Youth program operations**
 
 I build and run the systems that keep organizations moving. My background is IT leadership, and I am a graduate  in data science at the University of Phoenix. I am currently focused on turning operational data into decisions people can actually act on.
 
