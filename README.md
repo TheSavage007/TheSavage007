@@ -1,20 +1,20 @@
 # Randy O. Powell
 
-**IT leadership | M.S Data Science | Youth program operations**
+**IT Leadership | M.S Data Science | Youth Program Operations**
 
-I build and run the systems that keep organizations moving. My background is IT leadership, Master's  in Data Science from the University of Phoenix ,and  I am currently focused on turning operational data into decisions people can actually act on.
+I build and run the systems that keep organizations moving. My background is IT leadership, Master's in Data Science from the University of Phoenix, and I am currently focused on turning operations data into strategic advantage.
 
-Right now I coordinate programs for Oasis International, a youth athletic and academic development organization serving South Phoenix, Tempe, and Ahwatukee. That role sits at the intersection of operations, reporting, and people. Scheduling, program tracking, staff coordination, and the documentation that keeps a growing organization accountable.
+Right now I coordinate programs for Oasis International, a youth athletic and academic development organization serving South Phoenix, Tempe, and Ahwatukee. That role sits at the intersection of operations, program design, and data work.
 
 Coaching taught me something that carries directly into analytics. You do not win on the highlight play. You win on the film study nobody sees. That is how I approach data work.
 
 ---
 
-### What I work on
+### What I Work On
 
-- **Program operations and reporting.** Coordinating athletic and academic programming across multiple Arizona communities, including the planning documents and business case work behind it.
-- **IT leadership.** Systems administration, infrastructure decisions, and the process side of keeping technology aligned with what an organization actually needs.
-- **Graduate data science coursework.** Applied statistics, data analysis, and the modeling foundation , full data analytics 
+- **Program Operations & Reporting** — Coordinating athletic and academic programming across multiple Arizona communities, including planning documents and business case work
+- **IT Leadership** — Systems administration, infrastructure decisions, and process alignment with organizational needs
+- **Data Science & Analytics** — Applied statistics, data analysis, predictive modeling, and full data pipeline architecture
 
 ### Currently
 
@@ -22,20 +22,23 @@ Coaching taught me something that carries directly into analytics. You do not wi
 - Coordinating programs for Oasis International
 - Building out this profile with applied work from my program operations and coursework
 
-### Tools
+### Tech Stack
 
-
-`Python` `SQL` `Excel` `Tableau` 'Power BI `C' 'R' 'java' 'javascript' 'Data pipeline & ETL Architecture 'Data Science & Machine learning      ' Predictive Modeling & Statistical Analysis '
+`Python` `SQL` `Excel` `Tableau` `Power BI` `C` `R` `Java` `JavaScript` `Data Pipeline & ETL` `Data Science & Machine Learning` `Predictive Modeling` `Statistical Analysis`
 
 ### Background
 
-I played college football at the University of Memphis and Lane College, and I competed in track. Team sport at that level teaches preparation, accountability, and reading a situation fast. Those transfer.
+I played college football at the University of Memphis and Lane College, and competed in track. Team sport at that level teaches preparation, accountability, and reading a situation fast. Those principles drive how I approach every project—whether it's infrastructure planning or data strategy.
 
-### Reach me
+### Featured Projects
 
-- LinkedIn: [https://www.linkedin.com/in/randy-powell-224a92bb?utm_source=share_via&utm_content=profile&utm_medium=member_ios  ]
-- Email: [rpowell.investorsacademy@gmail.com]
+Coming soon — stay tuned for portfolio projects in data analytics, full-stack development, and business operations.
+
+### Reach Me
+
+- **LinkedIn:** [randy-powell-224a92bb](https://www.linkedin.com/in/randy-powell-224a92bb)
+- **Email:** [rpowell.investorsacademy@gmail.com](mailto:rpowell.investorsacademy@gmail.com)
 
 ---
 
-*Open to data science and analytics roles.*
+*Open to Data Science and Analytics roles.*
