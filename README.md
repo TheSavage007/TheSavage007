@@ -2,7 +2,7 @@
 
 **Data Science | IT Leadership | M.S. in Data Science**
 
-I turn operational data into decisions. I hold a Master of Science in Data Science from the University of Phoenix, and I bring an IT leadership background, laboratory research experience, and more than a decade in the classroom to every dataset I touch.
+I turn operational data into decisions. I completed my Master of Science in Data Science at the University of Phoenix, and I bring an IT leadership background, laboratory research experience, and more than a decade in the classroom to every dataset I touch.
 
 I serve as Program Director for Oasis International, a youth athletic and academic development organization serving South Phoenix, Tempe, and Ahwatukee, Arizona. I own the operations, program design, and reporting that keep it running.
 
