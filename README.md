@@ -1,6 +1,6 @@
 # Randy O. Powell
 
-**Data Science | IT Leadership | M.S. in Data Science**
+**Data Science | Machine Learning | MLOps | Generative AI | M.S. in Data Science**
 
 I turn operational data into decisions. I completed my Master of Science in Data Science at the University of Phoenix, and I bring an IT leadership background, laboratory research experience, and more than a decade in the classroom to every dataset I touch.
 
@@ -16,12 +16,12 @@ You do not win on the highlight play. You win on the film study nobody sees. Tha
 |---|---|
 | **Programming** | Python, R, SQL, JavaScript, Java, C |
 | **Statistics and Analysis** | Applied statistics, statistical analysis, confidence intervals, exploratory data analysis |
-| **Machine Learning** | Predictive modeling, machine learning |
+| **Machine Learning** | Predictive modeling, regression, gradient boosting, time based validation, scikit-learn |
+| **MLOps** | Model serving with FastAPI, Docker, CI/CD with GitHub Actions, automated quality gates, model cards |
 | **Data Engineering** | Database creation and management, data modeling, database architecture, ETL pipelines, data pipeline architecture |
 | **Visualization and BI** | Tableau, Power BI, Excel |
 | **Generative AI** | LLM application development, prompt engineering, structured JSON output, Anthropic API |
-| **Web and Deployment** | React, JavaScript ES modules, Netlify |
-| **Cloud and Platforms** | AWS, Windows 10 |
+| **Software Engineering** | React, JavaScript ES modules, REST APIs, pytest, Ruff, Netlify |
 
 ## Domain Expertise
 
@@ -39,8 +39,11 @@ I built and manage the database behind the company's live website, which support
 
 | Project | What It Demonstrates | Stack |
 |---|---|---|
-| [STEM Study Builder](https://github.com/TheSavage007/WorkExpo-1/tree/main/stem-study-builder) | Generative AI application with prompt engineering for strict JSON output, schema validation, and handled failure states | React, Anthropic API |
-| [Web Modules](https://github.com/TheSavage007/WorkExpo-1/tree/main/web-modules) | Reusable, dependency free modules deployed across multiple client sites, including a lead qualification flow and a rules based chat assistant | JavaScript, Netlify |
+| [Parking Demand MLOps](https://github.com/TheSavage007/parking-demand-mlops) | End to end ML service: forecasting model that beats a seasonal baseline, quality gate, REST API, container, and CI that tests, trains, builds, and smoke tests | scikit-learn, FastAPI, Docker, GitHub Actions |
+| [Parking Occupancy Analysis](https://github.com/TheSavage007/parking-occupancy-analysis) | Exploratory analysis of 4,138 readings across nine lots showing the shortage is distribution, not capacity | Python, pandas, Matplotlib, Jupyter |
+| [Pastas R Us Sales Analysis](https://github.com/TheSavage007/pastas-r-us-analysis) | Regression analysis of 74 restaurant locations to test site selection criteria and a loyalty program | Python, statsmodels, SciPy, Jupyter |
+| [STEM Study Builder](https://github.com/TheSavage007/applied-projects/tree/main/stem-study-builder) | Generative AI application with prompt engineering for strict JSON output, schema validation, and handled failure states | React, Anthropic API |
+| [Web Modules](https://github.com/TheSavage007/applied-projects/tree/main/web-modules) | Reusable, dependency free modules deployed across multiple client sites, including a lead qualification flow and a rules based chat assistant | JavaScript, Netlify |
 
 ## Background
 
@@ -53,4 +56,4 @@ I played college football at the University of Memphis and Lane College and comp
 
 ---
 
-*Open to Data Science and Analytics roles.*
+*Open to Data Science, Machine Learning, MLOps, Generative AI, and Software Engineering roles.*
