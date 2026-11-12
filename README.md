@@ -1,40 +1,51 @@
 # Randy O. Powell
 
-**IT Leadership | M.S Data Science | Youth Program Operations**
+**Data Science | IT Leadership | M.S. in Data Science**
 
-I build and run the systems that keep organizations moving. My background is IT leadership, Master's in Data Science from the University of Phoenix, and I am currently focused on turning operations data into strategic advantage.
+I turn operational data into decisions. I hold a Master of Science in Data Science from the University of Phoenix, and I bring an IT leadership background, laboratory research experience, and more than a decade in the classroom to every dataset I touch.
 
-Right now I coordinate programs for Oasis International, a youth athletic and academic development organization serving South Phoenix, Tempe, and Ahwatukee. That role sits at the intersection of operations, program design, and data work.
+I serve as Program Director for Oasis International, a youth athletic and academic development organization serving South Phoenix, Tempe, and Ahwatukee, Arizona. I own the operations, program design, and reporting that keep it running.
 
-Coaching taught me something that carries directly into analytics. You do not win on the highlight play. You win on the film study nobody sees. That is how I approach data work.
+You do not win on the highlight play. You win on the film study nobody sees. That is how I approach data work. Clean inputs, honest models, and results a decision maker can act on.
 
 ---
 
-### What I Work On
+## Technical Skills
 
-- **Program Operations & Reporting** — Coordinating athletic and academic programming across multiple Arizona communities, including planning documents and business case work
-- **IT Leadership** — Systems administration, infrastructure decisions, and process alignment with organizational needs
-- **Data Science & Analytics** — Applied statistics, data analysis, predictive modeling, and full data pipeline architecture
+| Area | Tools and Methods |
+|---|---|
+| **Programming** | Python, R, SQL, JavaScript, Java, C |
+| **Statistics and Analysis** | Applied statistics, statistical analysis, confidence intervals, exploratory data analysis |
+| **Machine Learning** | Predictive modeling, machine learning |
+| **Data Engineering** | Database creation and management, data modeling, database architecture, ETL pipelines, data pipeline architecture |
+| **Visualization and BI** | Tableau, Power BI, Excel |
+| **Generative AI** | LLM application development, prompt engineering, structured JSON output, Anthropic API |
+| **Web and Deployment** | React, JavaScript ES modules, Netlify |
 
-### Currently
+## Domain Expertise
 
-- Working on new lines of code for medical & agricultural science data
-- Coordinating programs for Oasis International
-- Building out this profile with applied work from my program operations and coursework
+- **Laboratory Science:** B.S. in Biology with a chemistry concentration. Lead lab technician and biochemist at Lane College (2013 to 2015), leading research on antibiotic resistant bacteria and controlled environmental testing.
+- **Education:** 11 years teaching chemistry, biology, physics, earth and space science, geology, and anatomy and physiology. Former STEM Director and Department Chair.
+- **Program Operations:** Planning, reporting, and business case development for multi site youth programming.
 
-### Tech Stack
+## Client Work
 
-`Python` `SQL` `Excel` `Tableau` `Power BI` `C` `R` `Java` `JavaScript` `Data Pipeline & ETL` `Data Science & Machine Learning` `Predictive Modeling` `Statistical Analysis`
+**Axiom3Sixty Group** | Sustainable ADU and casita construction, Phoenix, Arizona | [Live site](https://axiom3sixtygroup.base44.app)
 
-### Background
+I built and manage the database behind the company's live website, which supports lead capture from a satellite property viewer and an agent dashboard. This is where my graduate data modeling coursework meets production: conceptual, logical, and physical design applied to a system a business runs on every day.
 
-I played college football at the University of Memphis and Lane College, and competed in track. Team sport at that level teaches preparation, accountability, and reading a situation fast. Those principles drive how I approach every project—whether it's infrastructure planning or data strategy.
+## Featured Projects
 
-### Featured Projects
+| Project | What It Demonstrates | Stack |
+|---|---|---|
+| [STEM Study Builder](https://github.com/TheSavage007/WorkExpo-1/tree/main/stem-study-builder) | Generative AI application with prompt engineering for strict JSON output, schema validation, and handled failure states | React, Anthropic API |
+| [Web Modules](https://github.com/TheSavage007/WorkExpo-1/tree/main/web-modules) | Reusable, dependency free modules deployed across multiple client sites, including a lead qualification flow and a rules based chat assistant | JavaScript, Netlify |
 
-Coming soon — stay tuned for portfolio projects in data analytics, full-stack development, and business operations.
+## Background
 
-### Reach Me
+I played college football at the University of Memphis and Lane College and competed in track. Team sport at that level teaches preparation, accountability, and reading a situation fast. Those principles drive how I approach every project, from infrastructure planning to data strategy.
+
+## Contact
 
 - **LinkedIn:** [randy-powell-224a92bb](https://www.linkedin.com/in/randy-powell-224a92bb)
 - **Email:** [rpowell.investorsacademy@gmail.com](mailto:rpowell.investorsacademy@gmail.com)
