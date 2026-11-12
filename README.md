@@ -21,6 +21,7 @@ You do not win on the highlight play. You win on the film study nobody sees. Tha
 | **Visualization and BI** | Tableau, Power BI, Excel |
 | **Generative AI** | LLM application development, prompt engineering, structured JSON output, Anthropic API |
 | **Web and Deployment** | React, JavaScript ES modules, Netlify |
+| **Cloud and Platforms** | AWS, Windows 10 |
 
 ## Domain Expertise
 
