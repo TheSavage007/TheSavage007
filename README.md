@@ -33,16 +33,18 @@ You do not win on the highlight play. You win on the film study nobody sees. Tha
 
 **Axiom3Sixty Group** | Sustainable ADU and casita construction, Phoenix, Arizona | [Live site](https://axiom3sixtygroup.base44.app)
 
-I built and manage the database behind the company's live website, which supports lead capture from a satellite property viewer and an agent dashboard. This is where my graduate data modeling coursework meets production: conceptual, logical, and physical design applied to a system a business runs on every day.
+I built and manage the database behind the company's live website, which supports lead capture from a satellite property viewer and an agent dashboard. This is where my graduate data modeling coursework meets production: conceptual, logical, and physical design applied to a system a business runs on every day. The design is public, with the company's permission, in [axiom3sixty-database](https://github.com/TheSavage007/axiom3sixty-database).
 
 ## Featured Projects
 
 | Project | What It Demonstrates | Stack |
 |---|---|---|
 | [Parking Demand MLOps](https://github.com/TheSavage007/parking-demand-mlops) | End to end ML service: forecasting model that beats a seasonal baseline, quality gate, REST API, container, and CI that tests, trains, builds, and smoke tests | scikit-learn, FastAPI, Docker, GitHub Actions |
+| [Axiom3Sixty Database](https://github.com/TheSavage007/axiom3sixty-database) | Production database design for a live client site: ERD, normalized SQL schema with constraints, synthetic seed data, and lead pipeline queries | SQL, Python, pandas |
 | [Parking Occupancy Analysis](https://github.com/TheSavage007/parking-occupancy-analysis) | Exploratory analysis of 4,138 readings across nine lots showing the shortage is distribution, not capacity | Python, pandas, Matplotlib, Jupyter |
 | [Pastas R Us Sales Analysis](https://github.com/TheSavage007/pastas-r-us-analysis) | Regression analysis of 74 restaurant locations to test site selection criteria and a loyalty program | Python, statsmodels, SciPy, Jupyter |
 | [STEM Study Builder](https://github.com/TheSavage007/applied-projects/tree/main/stem-study-builder) | Generative AI application with prompt engineering for strict JSON output, schema validation, and handled failure states | React, Anthropic API |
+| [Secure Site Starter](https://github.com/TheSavage007/secure-site-starter) | Starter kit for small business sites with guarded forms, a consent gate, a privacy config, and hardened security headers | HTML, CSS, JavaScript |
 | [Web Modules](https://github.com/TheSavage007/applied-projects/tree/main/web-modules) | Reusable, dependency free modules deployed across multiple client sites, including a lead qualification flow and a rules based chat assistant | JavaScript, Netlify |
 
 ## Background
